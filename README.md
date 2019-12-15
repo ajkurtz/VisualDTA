@@ -4,6 +4,8 @@ VisualDTA is an application used to automatically create a visualization of a Dy
 
 This application was created to support DTA research and was developed in 2006.  The code has been updated to run in Java 1.8, but has not been updated to modern coding standards or refactored based on my improvement in Java development over the years. 
 
+A compiled version of the application along with exmaple input files are the the "dist" folder.
+
 ### Reseach Background
 Within a conversation, even when there are only two participants, the discussion topic changes over time. It is interesting to analyze the evolution of topics within different types of conversation-such as IRC, IM, and message board conversations-to observe how they are similar or different. Herring (2003) has created a technique for analyzing the coherence of conversation within computer-mediated discourse. This technique is called Dynamic Topic Analysis (DTA) and it provides a way to quantify and visualize the structure of the topic flow within a conversation. A coding scheme is used to quantify the topic drift within a conversation and a visualization based on the coding may be created to make it easier to see the flow of the topics within the conversation.
 
