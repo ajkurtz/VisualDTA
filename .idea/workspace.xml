@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74bf47a2-b31a-4288-a255-81d1e3b3b4b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V05Eoors6iGW8LpXNS0FGrEqFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Source\VisualDTA\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.install">
+    <configuration name="install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="Remote">
+      <module name="VisualDTA" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8000" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.install" />
+      <item itemvalue="Remote.debug" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bf47a2-b31a-4288-a255-81d1e3b3b4b2" name="Default Changelist" comment="" />
+      <created>1576377062985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576377062985</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="184" key="#Inspections" timestamp="1576388062147">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="349" y="184" key="#Inspections/0.0.2560.1040@0.0.2560.1040" timestamp="1576388062147" />
+    <state x="211" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576427923354">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="211" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1576427923354" />
+    <state x="487" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576379482135">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="487" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1576379482135" />
+    <state x="487" y="273" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576388083897">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="487" y="273" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1576388083897" />
+    <state x="537" y="281" key="FileChooserDialogImpl" timestamp="1576426054586">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="537" y="281" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1576426054586" />
+    <state width="1468" height="274" key="GridCell.Tab.0.bottom" timestamp="1576427951279">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="274" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951279" />
+    <state width="1468" height="274" key="GridCell.Tab.0.center" timestamp="1576427951278">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="274" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951278" />
+    <state width="1468" height="274" key="GridCell.Tab.0.left" timestamp="1576427951278">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="274" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951278" />
+    <state width="1468" height="274" key="GridCell.Tab.0.right" timestamp="1576427951279">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="274" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951279" />
+    <state width="1468" height="338" key="GridCell.Tab.1.bottom" timestamp="1576426326574">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="338" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1576426326574" />
+    <state width="1468" height="338" key="GridCell.Tab.1.center" timestamp="1576426326574">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="338" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1576426326574" />
+    <state width="1468" height="338" key="GridCell.Tab.1.left" timestamp="1576426326574">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="338" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1576426326574" />
+    <state width="1468" height="338" key="GridCell.Tab.1.right" timestamp="1576426326574">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1468" height="338" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1576426326574" />
+    <state x="287" y="181" key="Maven.ArtifactSearchDialog" timestamp="1576423826269">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="287" y="181" key="Maven.ArtifactSearchDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1576423826269" />
+    <state x="260" y="168" key="SettingsEditor" timestamp="1576428557794">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="260" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1576428557794" />
+    <state x="464" y="284" width="1089" height="669" key="find.popup" timestamp="1576427792843">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="464" y="284" width="1089" height="669" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1576427792843" />
+    <state x="406" y="227" key="new project wizard" timestamp="1576378888495">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="406" y="227" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1576378888495" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/CustomStatsWindow.java</url>
+          <line>264</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/DisplayWindow.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/DisplayWindow.java</url>
+          <line>314</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
