@@ -110,7 +110,7 @@ public class VisualDTA extends JFrame {
             helpBrowser = new Browser("Help", 400, 500, d.width - 405, 0, true, true);
         }
         helpBrowser.history.clear();
-        helpBrowser.showPage(frame.getClass().getResource("html/interfacehelp.html"));
+        helpBrowser.showPage(frame.getClass().getResource("/html/interfacehelp.html"));
     }
 
 
@@ -120,7 +120,7 @@ public class VisualDTA extends JFrame {
             helpBrowser = new Browser("Help", 400, 500, d.width - 405, 0, true, true);
         }
         helpBrowser.history.clear();
-        helpBrowser.showPage(frame.getClass().getResource("html/codinghelp.html"));
+        helpBrowser.showPage(frame.getClass().getResource("/html/codinghelp.html"));
     }
 
 

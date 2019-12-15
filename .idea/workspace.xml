@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74bf47a2-b31a-4288-a255-81d1e3b3b4b2" name="Default Changelist" comment="" />
+    <list default="true" id="74bf47a2-b31a-4288-a255-81d1e3b3b4b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/VisualDTA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/VisualDTA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/html/codinghelp.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html/codinghelp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andykurtz/visualdta/html/interfacehelp.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/html/interfacehelp.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +23,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1V05Eoors6iGW8LpXNS0FGrEqFv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +35,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Source\VisualDTA\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Source\VisualDTA\src\test\resources" />
     </key>
@@ -134,22 +146,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="537" y="281" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1576426054586" />
-    <state width="1468" height="274" key="GridCell.Tab.0.bottom" timestamp="1576427951279">
+    <state width="1468" height="274" key="GridCell.Tab.0.bottom" timestamp="1576428846046">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1468" height="274" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951279" />
-    <state width="1468" height="274" key="GridCell.Tab.0.center" timestamp="1576427951278">
+    <state width="1468" height="274" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1576428846046" />
+    <state width="1468" height="274" key="GridCell.Tab.0.center" timestamp="1576428846045">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1468" height="274" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951278" />
-    <state width="1468" height="274" key="GridCell.Tab.0.left" timestamp="1576427951278">
+    <state width="1468" height="274" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1576428846045" />
+    <state width="1468" height="274" key="GridCell.Tab.0.left" timestamp="1576428846045">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1468" height="274" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951278" />
-    <state width="1468" height="274" key="GridCell.Tab.0.right" timestamp="1576427951279">
+    <state width="1468" height="274" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1576428846045" />
+    <state width="1468" height="274" key="GridCell.Tab.0.right" timestamp="1576428846045">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1468" height="274" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1576427951279" />
+    <state width="1468" height="274" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1576428846045" />
     <state width="1468" height="338" key="GridCell.Tab.1.bottom" timestamp="1576426326574">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -174,10 +186,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="260" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1576428557794" />
-    <state x="464" y="284" width="1089" height="669" key="find.popup" timestamp="1576427792843">
+    <state x="464" y="284" width="1089" height="669" key="find.popup" timestamp="1576428830996">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="464" y="284" width="1089" height="669" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1576427792843" />
+    <state x="464" y="284" width="1089" height="669" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1576428830996" />
     <state x="406" y="227" key="new project wizard" timestamp="1576378888495">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
