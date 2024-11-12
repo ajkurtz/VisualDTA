@@ -6,7 +6,7 @@ import org.apache.batik.swing.JSVGCanvas;
 import org.apache.batik.swing.gvt.GVTTreeRendererEvent;
 import org.apache.batik.swing.gvt.GVTTreeRendererListener;
 import org.apache.batik.swing.svg.*;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.*;
 import org.w3c.dom.Element;
 import org.w3c.dom.events.EventTarget;
 
@@ -25,7 +25,7 @@ import java.util.Map;
 
 public class DisplayWindow extends JFrame {
 
-    final static Logger logger = Logger.getLogger(DisplayWindow.class);
+    final static Logger logger = LogManager.getLogger(DisplayWindow.class);
 
     public boolean isReady = false;
     Container contentPane = null;

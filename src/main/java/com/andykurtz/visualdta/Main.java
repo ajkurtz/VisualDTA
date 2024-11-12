@@ -1,11 +1,11 @@
 package com.andykurtz.visualdta;
 
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.*;
 
 public class Main {
 
-    final static Logger logger = Logger.getLogger(Main.class);
+    final static Logger logger = LogManager.getLogger(Main.class);
 
     public Main() {
         logger.debug("Starting up");

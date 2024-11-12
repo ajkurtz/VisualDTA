@@ -1,7 +1,7 @@
 package com.andykurtz.visualdta;
 
 import org.apache.batik.swing.JSVGCanvas;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.*;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,7 +9,7 @@ import java.io.File;
 
 public class VisualDTA extends JFrame {
 
-    final static Logger logger = Logger.getLogger(VisualDTA.class);
+    final static Logger logger = LogManager.getLogger(VisualDTA.class);
 
     static JFrame frame = null;
     static DisplayWindow displayWindow = null;

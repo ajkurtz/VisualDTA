@@ -1,13 +1,14 @@
 package com.andykurtz.visualdta;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.*;
+import org.apache.logging.log4j.LogManager;
 
 import javax.swing.*;
 import java.util.StringTokenizer;
 
 public class Utilities {
 
-    final static Logger logger = Logger.getLogger(Utilities.class);
+    final static Logger logger = LogManager.getLogger(Utilities.class);
 
     public static void errorMessage(String msg, Exception ex) {
         if (ex != null) {
