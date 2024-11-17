@@ -433,12 +433,20 @@ public class Proposition {
         return ("</g></svg>\n");
     }
 
-    public static int calulateViewWidth(int maxSemanticDistance) {
-        return (200 + xPropositionIdPad + ((maxSemanticDistance + 1) * (charWidth + xPad)) + (xMargin * 2));
+    public static int calculateViewWidth(int maxSemanticDistance, int maxDescriptionLength) {
+        return (200
+                + xPropositionIdPad
+                + ((maxSemanticDistance + 1) * (charWidth + xPad))
+                + ((maxDescriptionLength + 1) * charWidth)
+                + (xMargin * 2)
+        );
     }
 
     public static int calculateViewHeight(PropositionList propositionList) {
-        return ((propositionList.size() * (charHeight + yPad)) + (yMargin * 2) + 100);
+        return ((propositionList.size() * (charHeight + yPad))
+                + (yMargin * 2)
+                + 100
+        );
     }
 
     public static PropositionList loadCoding(String codingFileName) {
@@ -596,6 +604,25 @@ public class Proposition {
             return null;
         }
 
+    }
+
+    public static int getMaxDescriptionLength(PropositionList propositionList) {
+        int maxLength = 0;
+
+        for (int i = 0; i < propositionList.size(); ++i) {
+            Proposition p = propositionList.get(i);
+
+            for (int j = 0; j < p.getPropositionDataList().size(); ++j) {
+                PropositionData pd = p.getPropositionDataList().get(j);
+                if (null != pd.text) {
+                    if (pd.text.length() > maxLength) {
+                        maxLength = pd.text.length();
+                    }
+                }
+            }
+        }
+
+        return maxLength;
     }
 
     public PropositionDataList getPropositionDataList() {

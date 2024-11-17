@@ -4,12 +4,12 @@ import org.apache.batik.swing.JSVGCanvas;
 import org.apache.logging.log4j.*;
 
 import javax.swing.*;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 import java.awt.*;
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.nio.file.StandardCopyOption;
 
 public class VisualDTA extends JFrame {
 
@@ -84,7 +84,9 @@ public class VisualDTA extends JFrame {
             return null;
         }
 
-        int viewWidth = Proposition.calulateViewWidth(maxSemanticDistance);
+        int maxDescriptionLength = Proposition.getMaxDescriptionLength(propositionList);
+
+        int viewWidth = Proposition.calculateViewWidth(maxSemanticDistance, maxDescriptionLength);
         int viewHeight = Proposition.calculateViewHeight(propositionList);
 
         try {
@@ -155,13 +157,19 @@ public class VisualDTA extends JFrame {
         nodeDetailsWindow = new NodeDetailsWindow(frame, propositionList, svgCanvas, displayWindow);
     }
 
-    public static void doExport(File svgFile) {
+    public static void doExport(JSVGCanvas svg) {
         String exportFilePath = promptForExportFile();
         if (null != exportFilePath) {
             try {
-                Path source = svgFile.toPath();
-                Path dest = Paths.get(exportFilePath);
-                Files.copy(source, dest, StandardCopyOption.REPLACE_EXISTING);
+                DOMSource source = new DOMSource(svg.getSVGDocument());
+
+                FileWriter writer = new FileWriter(exportFilePath);
+                StreamResult output = new StreamResult(writer);
+
+                TransformerFactory transformerFactory = TransformerFactory.newInstance();
+                Transformer transformer = transformerFactory.newTransformer();
+
+                transformer.transform(source, output);
             } catch (Exception e) {
                 Utilities.errorMessage("There was an error when exporting the SVG file to " + exportFilePath + ". ", e);
             }

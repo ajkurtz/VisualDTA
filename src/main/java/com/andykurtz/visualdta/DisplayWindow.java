@@ -118,7 +118,7 @@ public class DisplayWindow extends JFrame {
         }
         exportMenu.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_E, InputEvent.CTRL_DOWN_MASK));
 
-        exportMenu.addActionListener(e -> VisualDTA.doExport(svgFile));
+        exportMenu.addActionListener(e -> VisualDTA.doExport(svgCanvas));
 
         fileMenu.add(new JSeparator());
 
@@ -513,6 +513,7 @@ public class DisplayWindow extends JFrame {
                                 textButton.setText("Hide");
                             }
                             svgCanvas.flushImageCache();
+
                         }));
 
         LineBorder lineBorder = new LineBorder(Color.BLACK); // Used for both title borders
@@ -641,7 +642,9 @@ public class DisplayWindow extends JFrame {
             width = preferredSize.width + 10;
             height = 400;
         } else {
-            width = Proposition.calulateViewWidth(Proposition.getMaxSemanticDistance(propositionList)) + 20;
+            int maxSemanticDistance = Proposition.getMaxSemanticDistance(propositionList);
+            int maxDescriptionLength = Proposition.getMaxDescriptionLength(propositionList);
+            width = Proposition.calculateViewWidth(maxSemanticDistance, maxDescriptionLength) + 20;
             height = Proposition.calculateViewHeight(propositionList) + 100;
         }
 
