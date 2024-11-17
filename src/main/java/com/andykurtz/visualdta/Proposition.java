@@ -46,7 +46,7 @@ public class Proposition {
     private static Proposition findProposition(PropositionList propositionList, String id) {
 
         if (propositionList == null) {
-            return (null);
+            return null;
         }
 
         for (int i = 0; i < propositionList.size(); ++i) {
@@ -56,7 +56,7 @@ public class Proposition {
             }
         }
 
-        return (null);
+        return null;
     }
 
     private static String stripNonPrint(String str) {
@@ -374,7 +374,7 @@ public class Proposition {
                         Proposition r = findProposition(propositionList, pd.respondsTo);
                         if (r == null) {
                             Utilities.errorMessage("There was an error in the coding file.   A Responds to value was given, but it was not found in a previous proposition.  Current proposition = '" + p.id + "', Responds to = '" + pd.respondsTo + "'.", null);
-                            return (null);
+                            return null;
                         }
                         if (first) {
                             x2 = r.x + ((charWidth + xPad) * pd.distance);
@@ -509,7 +509,7 @@ public class Proposition {
 
             if (!foundProposition || !foundRespondsTo || !foundRelationType || !foundDistance) {
                 Utilities.errorMessage("The file " + codingFileName + " does not contain all the required fields.  'Proposition', 'Reponds To', 'Relation Type', and 'Distance' are required.", null);
-                return (null);
+                return null;
             }
 
             PropositionList propositionList = new PropositionList(attributeList);
@@ -593,7 +593,7 @@ public class Proposition {
 
         } catch (Exception ex) {
             Utilities.errorMessage("There was an error when loading the coding file " + codingFileName + ". ", ex);
-            return (null);
+            return null;
         }
 
     }

@@ -103,15 +103,28 @@ public class DisplayWindow extends JFrame {
 
         JMenuItem loadMenu = new JMenuItem("Load");
         fileMenu.add(loadMenu).setEnabled(true);
-        loadMenu.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_L, InputEvent.CTRL_MASK));
+        loadMenu.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_L, InputEvent.CTRL_DOWN_MASK));
 
         loadMenu.addActionListener(e -> VisualDTA.doLoad());
 
         fileMenu.add(new JSeparator());
 
+        JMenuItem exportMenu = new JMenuItem("Export");
+        fileMenu.add(exportMenu);
+        if (svgFile == null) {
+            exportMenu.setEnabled(false);
+        } else {
+            exportMenu.setEnabled(true);
+        }
+        exportMenu.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_E, InputEvent.CTRL_DOWN_MASK));
+
+        exportMenu.addActionListener(e -> VisualDTA.doExport(svgFile));
+
+        fileMenu.add(new JSeparator());
+
         JMenuItem quitMenu = new JMenuItem("Quit");
         fileMenu.add(quitMenu).setEnabled(true);
-        quitMenu.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_Q, InputEvent.CTRL_MASK));
+        quitMenu.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_Q, InputEvent.CTRL_DOWN_MASK));
         quitMenu.addActionListener(e -> VisualDTA.doQuit());
 
         JMenu viewMenu = new JMenu("View");
