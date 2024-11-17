@@ -147,7 +147,7 @@ public class Proposition {
     public static String genHead(int viewWidth, int viewHeight) {
 
         return ("<?xml version=\"1.0\"?>\n" +
-                "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"" + viewWidth + "\" height=\"" + viewHeight + "\" viewBox=\"0 0 " + viewWidth + " " + viewHeight + "\" preserveAspectRatio=\"xMidYMin meet\">\n" +
+                "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"" + viewWidth + "\" height=\"" + viewHeight + "\" viewBox=\"0 0 " + viewWidth + " " + viewHeight + "\" preserveAspectRatio=\"xMidYMin meet\" style=\"background-color:white\">\n" +
                 "	<defs>\n" +
                 "	<style type=\"text/css\">\n" +
                 "	<![CDATA[\n" +

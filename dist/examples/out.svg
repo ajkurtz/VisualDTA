@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="4100" zoomAndPan="magnify" style="background-color:white" contentStyleType="text/css" viewBox="0 0 4100 2375" height="2375" preserveAspectRatio="xMidYMin meet" version="1.0">
+	<defs>
+	<style type="text/css" xml:space="preserve">
+	<![CDATA[
+		text.label {
+			fill: black;
+			stroke: none;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.button {
+			fill: black;
+			stroke: none;
+			font-family: sans-serif;
+			font-size: 11;
+			font-weight: normal;
+			text-anchor: middle;
+		}
+		text.normal {
+			fill: black;
+			stroke: none;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: normal;
+		}
+		text.description {
+			fill: black;
+			stroke: none;
+			font-family: sans-serif;
+			font-size: 13;
+			letter-spacing: 1;
+			font-weight: normal;
+		}
+		text.description-fill {
+			fill: white;
+			stroke: white;
+			stroke-width: 4;
+			font-family: sans-serif;
+			font-size: 13;
+			letter-spacing: 1;
+			font-weight: normal;
+		}
+		text.B {
+			fill: black;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.E {
+			fill: purple;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.M {
+			fill: green;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.P {
+			fill: red;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.T {
+			fill: blue;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.F {
+			fill: white;
+			stroke: white;
+			stroke-width: 4;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		text.H {
+			opacity: 0;
+			fill: yellow;
+			stroke: yellow;
+			stroke-width: 6;
+			font-family: sans-serif;
+			font-size: 14;
+			font-weight: bold;
+		}
+		line.label {
+			fill: none;
+			stroke: black;
+			stroke-width: 1;
+		}	
+		line.solid {
+			fill: none;
+			stroke: black;
+			stroke-width: 1.5;
+		}
+		line.dotted {
+			fill: none;
+			stroke: black;
+			stroke-width: 1.5;
+			stroke-dasharray:5 5;
+		}
+		circle.H {
+			opacity: 0;
+			fill: yellow;
+			stroke: black;
+			stroke-width: 1;
+		}
+	]]>
+	</style>
+	</defs>
+	<g id="svgScale" transform="scale(1, 1)">
+<text x="25" y="65" class="label" transform="rotate(-90, 25, 65)" text-anchor="end">Proposition Number</text>
+<text class="label" x="95" y="25">Semantic Distance</text>
+<text x="75" id="label0" y="65" class="normal" text-anchor="end">A1</text>
+<text x="75" id="label1" y="90" class="normal" text-anchor="end">A2</text>
+<text x="75" id="label2" y="115" class="normal" text-anchor="end">A3</text>
+<line y2="109" id="line20" x1="94" class="solid" x2="124" y1="84"/>
+<text x="75" id="label3" y="140" class="normal" text-anchor="end">A4</text>
+<text x="75" id="label4" y="165" class="normal" text-anchor="end">A5</text>
+<line y2="159" id="line40" x1="94" class="solid" x2="154" y1="134"/>
+<text x="75" id="label5" y="190" class="normal" text-anchor="end">A6</text>
+<text x="75" id="label6" y="215" class="normal" text-anchor="end">A7</text>
+<line y2="209" id="line60" x1="94" class="solid" x2="124" y1="184"/>
+<text x="75" id="label7" y="240" class="normal" text-anchor="end">A8</text>
+<line y2="234" id="line70" x1="94" class="solid" x2="94" y1="84"/>
+<text x="75" id="label8" y="265" class="normal" text-anchor="end">A9</text>
+<text x="75" id="label9" y="290" class="normal" text-anchor="end">A10</text>
+<line y2="284" id="line90" x1="94" class="solid" x2="124" y1="259"/>
+<text x="75" id="label10" y="315" class="normal" text-anchor="end">A11</text>
+<text x="75" id="label11" y="340" class="normal" text-anchor="end">A12</text>
+<text x="75" id="label12" y="365" class="normal" text-anchor="end">A13</text>
+<line y2="359" id="line120" x1="94" class="solid" x2="124" y1="84"/>
+<text x="75" id="label13" y="390" class="normal" text-anchor="end">A14</text>
+<text x="75" id="label14" y="415" class="normal" text-anchor="end">A15</text>
+<line y2="409" id="line140" x1="94" class="solid" x2="154" y1="384"/>
+<text x="75" id="label15" y="440" class="normal" text-anchor="end">A16</text>
+<line y2="434" id="line150" x1="124" class="solid" x2="124" y1="359"/>
+<text x="75" id="label16" y="465" class="normal" text-anchor="end">A17</text>
+<line y2="459" id="line160" x1="94" class="solid" x2="94" y1="309"/>
+<text x="75" id="label17" y="490" class="normal" text-anchor="end">A18</text>
+<line y2="484" id="line170" x1="124" class="solid" x2="154" y1="284"/>
+<text x="75" id="label18" y="515" class="normal" text-anchor="end">A19</text>
+<line y2="509" id="line180" x1="124" class="solid" x2="154" y1="359"/>
+<text x="75" id="label19" y="540" class="normal" text-anchor="end">B1</text>
+<text x="75" id="label20" y="565" class="normal" text-anchor="end">B2</text>
+<line y2="559" id="line200" x1="94" class="solid" x2="184" y1="534"/>
+<text x="75" id="label21" y="590" class="normal" text-anchor="end">B3</text>
+<line y2="584" id="line210" x1="94" class="solid" x2="184" y1="534"/>
+<text x="75" id="label22" y="615" class="normal" text-anchor="end">B4</text>
+<line y2="609" id="line220" x1="94" class="solid" x2="184" y1="534"/>
+<text x="75" id="label23" y="640" class="normal" text-anchor="end">B5</text>
+<text x="75" id="label24" y="665" class="normal" text-anchor="end">B6</text>
+<text x="75" id="label25" y="690" class="normal" text-anchor="end">B7</text>
+<line y2="684" id="line250" x1="94" class="solid" x2="124" y1="659"/>
+<text x="75" id="label26" y="715" class="normal" text-anchor="end">B8</text>
+<line y2="709" id="line260" x1="94" class="solid" x2="154" y1="659"/>
+<text x="75" id="label27" y="740" class="normal" text-anchor="end">B9</text>
+<line y2="734" id="line270" x1="94" class="solid" x2="124" y1="659"/>
+<text x="75" id="label28" y="765" class="normal" text-anchor="end">B10</text>
+<line y2="759" id="line280" x1="94" class="solid" x2="124" y1="659"/>
+<text x="75" id="label29" y="790" class="normal" text-anchor="end">B11</text>
+<text x="75" id="label30" y="815" class="normal" text-anchor="end">B12</text>
+<line y2="809" id="line300" x1="94" class="solid" x2="124" y1="784"/>
+<text x="75" id="label31" y="840" class="normal" text-anchor="end">B13</text>
+<line y2="834" id="line310" x1="94" class="solid" x2="124" y1="784"/>
+<text x="75" id="label32" y="865" class="normal" text-anchor="end">B14</text>
+<line y2="859" id="line320" x1="94" class="solid" x2="124" y1="784"/>
+<text x="75" id="label33" y="890" class="normal" text-anchor="end">B15</text>
+<line y2="884" id="line330" x1="94" class="solid" x2="124" y1="784"/>
+<text x="75" id="label34" y="915" class="normal" text-anchor="end">B16</text>
+<line y2="909" id="line340" x1="94" class="solid" x2="154" y1="784"/>
+<text x="75" id="label35" y="940" class="normal" text-anchor="end">B17</text>
+<text x="75" id="label36" y="965" class="normal" text-anchor="end">B18</text>
+<line y2="959" id="line360" x1="94" class="solid" x2="124" y1="934"/>
+<text x="75" id="label37" y="990" class="normal" text-anchor="end">B19</text>
+<line y2="984" id="line370" x1="94" class="solid" x2="124" y1="934"/>
+<text x="75" id="label38" y="1015" class="normal" text-anchor="end">B20</text>
+<text x="75" id="label39" y="1040" class="normal" text-anchor="end">B21</text>
+<line y2="1034" id="line390" x1="94" class="solid" x2="124" y1="1009"/>
+<text x="75" id="label40" y="1065" class="normal" text-anchor="end">B22</text>
+<line y2="1059" id="line400" x1="94" class="solid" x2="124" y1="1009"/>
+<text x="75" id="label41" y="1090" class="normal" text-anchor="end">B23</text>
+<line y2="1084" id="line410" x1="94" class="solid" x2="154" y1="1009"/>
+<text x="75" id="label42" y="1115" class="normal" text-anchor="end">B24</text>
+<line y2="1109" id="line420" x1="124" class="solid" x2="154" y1="1034"/>
+<text x="75" id="label43" y="1140" class="normal" text-anchor="end">B25</text>
+<line y2="1134" id="line430" x1="124" class="solid" x2="214" y1="1034"/>
+<text x="75" id="label44" y="1165" class="normal" text-anchor="end">B26</text>
+<text x="75" id="label45" y="1190" class="normal" text-anchor="end">B27</text>
+<line y2="1184" id="line450" x1="94" class="solid" x2="124" y1="1159"/>
+<text x="75" id="label46" y="1215" class="normal" text-anchor="end">B28</text>
+<line y2="1209" id="line460" x1="94" class="solid" x2="124" y1="1159"/>
+<text x="75" id="label47" y="1240" class="normal" text-anchor="end">B29</text>
+<text x="75" id="label48" y="1265" class="normal" text-anchor="end">B30</text>
+<text x="75" id="label49" y="1290" class="normal" text-anchor="end">C1</text>
+<text x="75" id="label50" y="1315" class="normal" text-anchor="end">C2</text>
+<line y2="1309" id="line500" x1="94" class="solid" x2="124" y1="1284"/>
+<text x="75" id="label51" y="1340" class="normal" text-anchor="end">C3</text>
+<line y2="1334" id="line510" x1="94" class="solid" x2="154" y1="1284"/>
+<text x="75" id="label52" y="1365" class="normal" text-anchor="end">C4</text>
+<text x="75" id="label53" y="1390" class="normal" text-anchor="end">C5</text>
+<text x="75" id="label54" y="1415" class="normal" text-anchor="end">C6</text>
+<line y2="1409" id="line540" x1="94" class="solid" x2="94" y1="1384"/>
+<text x="75" id="label55" y="1440" class="normal" text-anchor="end">C7</text>
+<line y2="1434" id="line550" x1="94" class="solid" x2="94" y1="1384"/>
+<text x="75" id="label56" y="1465" class="normal" text-anchor="end">C8</text>
+<line y2="1459" id="line560" x1="94" class="solid" x2="154" y1="1434"/>
+<text x="75" id="label57" y="1490" class="normal" text-anchor="end">C9</text>
+<line y2="1484" id="line570" x1="154" class="solid" x2="154" y1="1459"/>
+<text x="75" id="label58" y="1515" class="normal" text-anchor="end">C10</text>
+<text x="75" id="label59" y="1540" class="normal" text-anchor="end">C11</text>
+<line y2="1534" id="line590" x1="94" class="solid" x2="124" y1="1509"/>
+<text x="75" id="label60" y="1565" class="normal" text-anchor="end">C12</text>
+<line y2="1559" id="line600" x1="94" class="solid" x2="154" y1="1509"/>
+<text x="75" id="label61" y="1590" class="normal" text-anchor="end">C13</text>
+<text x="75" id="label62" y="1615" class="normal" text-anchor="end">C14</text>
+<text x="75" id="label63" y="1640" class="normal" text-anchor="end">C15</text>
+<text x="75" id="label64" y="1665" class="normal" text-anchor="end">C16</text>
+<text x="75" id="label65" y="1690" class="normal" text-anchor="end">C17</text>
+<line y2="1684" id="line650" x1="94" class="solid" x2="124" y1="1659"/>
+<text x="75" id="label66" y="1715" class="normal" text-anchor="end">C18</text>
+<line y2="1709" id="line660" x1="124" class="solid" x2="124" y1="1684"/>
+<text x="75" id="label67" y="1740" class="normal" text-anchor="end">C19</text>
+<text x="75" id="label68" y="1765" class="normal" text-anchor="end">C20</text>
+<line y2="1759" id="line680" x1="94" class="solid" x2="94" y1="1734"/>
+<text x="75" id="label69" y="1790" class="normal" text-anchor="end">C21</text>
+<line y2="1784" id="line690" x1="94" class="solid" x2="124" y1="1759"/>
+<text x="75" id="label70" y="1815" class="normal" text-anchor="end">C22</text>
+<text x="75" id="label71" y="1840" class="normal" text-anchor="end">C23</text>
+<line y2="1834" id="line710" x1="94" class="solid" x2="154" y1="1809"/>
+<text x="75" id="label72" y="1865" class="normal" text-anchor="end">C24</text>
+<line y2="1859" id="line720" x1="94" class="solid" x2="154" y1="1809"/>
+<text x="75" id="label73" y="1890" class="normal" text-anchor="end">C25</text>
+<text x="75" id="label74" y="1915" class="normal" text-anchor="end">C26</text>
+<text x="75" id="label75" y="1940" class="normal" text-anchor="end">D1</text>
+<text x="75" id="label76" y="1965" class="normal" text-anchor="end">D2</text>
+<line y2="1959" id="line760" x1="94" class="solid" x2="154" y1="1934"/>
+<text x="75" id="label77" y="1990" class="normal" text-anchor="end">D3</text>
+<line y2="1984" id="line770" x1="94" class="solid" x2="154" y1="1934"/>
+<text x="75" id="label78" y="2015" class="normal" text-anchor="end">D4</text>
+<text x="75" id="label79" y="2040" class="normal" text-anchor="end">D5</text>
+<line y2="2034" id="line790" x1="94" class="solid" x2="94" y1="2009"/>
+<text x="75" id="label80" y="2065" class="normal" text-anchor="end">D6</text>
+<line y2="2059" id="line800" x1="94" class="solid" x2="94" y1="2009"/>
+<text x="75" id="label81" y="2090" class="normal" text-anchor="end">D7</text>
+<line y2="2084" id="line810" x1="94" class="solid" x2="94" y1="2009"/>
+<text x="75" id="label82" y="2115" class="normal" text-anchor="end">D8</text>
+<text x="75" id="label83" y="2140" class="normal" text-anchor="end">D9</text>
+<line y2="2134" id="line830" x1="94" class="solid" x2="124" y1="2109"/>
+<text x="75" id="label84" y="2165" class="normal" text-anchor="end">D10</text>
+<line y2="2159" id="line840" x1="94" class="solid" x2="94" y1="2109"/>
+<text x="75" id="label85" y="2190" class="normal" text-anchor="end">D11</text>
+<line y2="2184" id="line850" x1="94" class="solid" x2="94" y1="2109"/>
+<text x="75" id="label86" y="2215" class="normal" text-anchor="end">D12</text>
+<line y2="2209" id="line860" x1="94" class="solid" x2="94" y1="2009"/>
+<text x="75" id="label87" y="2240" class="normal" text-anchor="end">D13</text>
+<line y2="2234" id="line870" x1="124" class="solid" x2="124" y1="2134"/>
+<text x="75" id="label88" y="2265" class="normal" text-anchor="end">D14</text>
+<line y2="2259" id="line880" x1="124" class="solid" x2="124" y1="2234"/>
+<text x="95" y="45" class="normal" text-anchor="middle">1</text>
+<text x="125" y="45" class="normal" text-anchor="middle">2</text>
+<text x="155" y="45" class="normal" text-anchor="middle">3</text>
+<text x="185" y="45" class="normal" text-anchor="middle">4</text>
+<text x="215" y="45" class="normal" text-anchor="middle">5</text>
+<g style="cursor:pointer" id="type0">
+<circle r="10" id="highlight0" class="H" cx="94" cy="60"/>
+<text x="95" id="plain0" y="65" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight0" y="65" class="H" text-anchor="middle">T</text>
+<text x="95" y="65" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc0">
+<text class="description-fill" x="115" y="65">are you trying to make housing a managers mandatory placement as a scape goat for your committees (RRC)reputation?</text>
+<text class="description" x="115" y="65">are you trying to make housing a managers mandatory placement as a scape goat for your committees (RRC)reputation?</text>
+</g>
+<g style="cursor:pointer" id="type1">
+<circle r="10" id="highlight1" class="H" cx="94" cy="85"/>
+<text x="95" id="plain1" y="90" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight1" y="90" class="H" text-anchor="middle">T</text>
+<text x="95" y="90" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc1">
+<text class="description-fill" x="115" y="90">it seems as if you are trying to pursue the sunset rule (which is similar to abolishing the regulation)</text>
+<text class="description" x="115" y="90">it seems as if you are trying to pursue the sunset rule (which is similar to abolishing the regulation)</text>
+</g>
+<g style="cursor:pointer" id="type2">
+<circle r="10" id="highlight2" class="H" cx="124" cy="110"/>
+<text x="125" id="plain2" y="115" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight2" y="115" class="H" text-anchor="middle">P</text>
+<text x="125" y="115" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc2">
+<text class="description-fill" x="145" y="115">do you get on our nerves (with Sunset rule) because we (people who has housing managers certificate) seem weak ?</text>
+<text class="description" x="145" y="115">do you get on our nerves (with Sunset rule) because we (people who has housing managers certificate) seem weak ?</text>
+</g>
+<g style="cursor:pointer" id="type3">
+<circle r="10" id="highlight3" class="H" cx="94" cy="135"/>
+<text x="95" id="plain3" y="140" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight3" y="140" class="H" text-anchor="middle">T</text>
+<text x="95" y="140" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc3">
+<text class="description-fill" x="115" y="140">the company which manages the contract between apartment and housing managers) would have many problems</text>
+<text class="description" x="115" y="140">the company which manages the contract between apartment and housing managers) would have many problems</text>
+</g>
+<g style="cursor:pointer" id="type4">
+<circle r="10" id="highlight4" class="H" cx="154" cy="160"/>
+<text x="155" id="plain4" y="165" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight4" y="165" class="H" text-anchor="middle">P</text>
+<text x="155" y="165" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc4">
+<text class="description-fill" x="175" y="165">I am thinking of changing my job(giving up housing manger job) no matter what kind of decision of you make</text>
+<text class="description" x="175" y="165">I am thinking of changing my job(giving up housing manger job) no matter what kind of decision of you make</text>
+</g>
+<g style="cursor:pointer" id="type5">
+<circle r="10" id="highlight5" class="H" cx="94" cy="185"/>
+<text x="95" id="plain5" y="190" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight5" y="190" class="H" text-anchor="middle">T</text>
+<text x="95" y="190" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc5">
+<text class="description-fill" x="115" y="190">I would like to assert that the way of apt housing management should be changed</text>
+<text class="description" x="115" y="190">I would like to assert that the way of apt housing management should be changed</text>
+</g>
+<g style="cursor:pointer" id="type6">
+<circle r="10" id="highlight6" class="H" cx="124" cy="210"/>
+<text x="125" id="plain6" y="215" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight6" y="215" class="H" text-anchor="middle">P</text>
+<text x="125" y="215" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc6">
+<text class="description-fill" x="145" y="215">your committee is pointing the issue of quality managementcurrent housing managers may admit this fact(low quality) though they dont know whatt he level iswe should analyze why the management quality is low though we accept the current situation(low quality)</text>
+<text class="description" x="145" y="215">your committee is pointing the issue of quality managementcurrent housing managers may admit this fact(low quality) though they dont know whatt he level iswe should analyze why the management quality is low though we accept the current situation(low quality)</text>
+</g>
+<g style="cursor:pointer" id="type7">
+<circle r="10" id="highlight7" class="H" cx="94" cy="235"/>
+<text x="95" id="plain7" y="240" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight7" y="240" class="H" text-anchor="middle">T</text>
+<text x="95" y="240" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc7">
+<text class="description-fill" x="115" y="240">your committee is asserting Sun Set rule because you think that low quality has been attributed to current housing managers</text>
+<text class="description" x="115" y="240">your committee is asserting Sun Set rule because you think that low quality has been attributed to current housing managers</text>
+</g>
+<g style="cursor:pointer" id="type8">
+<circle r="10" id="highlight8" class="H" cx="94" cy="260"/>
+<text x="95" id="plain8" y="265" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight8" y="265" class="H" text-anchor="middle">T</text>
+<text x="95" y="265" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc8">
+<text class="description-fill" x="115" y="265">Then the association of housing managers MOCT and NGO opposed your idea and pointed your misjudgementTherefore I expected you would approach the regulation reform from a new perspective</text>
+<text class="description" x="115" y="265">Then the association of housing managers MOCT and NGO opposed your idea and pointed your misjudgementTherefore I expected you would approach the regulation reform from a new perspective</text>
+</g>
+<g style="cursor:pointer" id="type9">
+<circle r="10" id="highlight9" class="H" cx="124" cy="285"/>
+<text x="125" id="plain9" y="290" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight9" y="290" class="H" text-anchor="middle">P</text>
+<text x="125" y="290" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc9">
+<text class="description-fill" x="145" y="290">but the current situation shows that you did not change your attitude at all and your committee is playing with the regulation as I said introduction</text>
+<text class="description" x="145" y="290">but the current situation shows that you did not change your attitude at all and your committee is playing with the regulation as I said introduction</text>
+</g>
+<g style="cursor:pointer" id="type10">
+<circle r="10" id="highlight10" class="H" cx="94" cy="310"/>
+<text x="95" id="plain10" y="315" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight10" y="315" class="H" text-anchor="middle">T</text>
+<text x="95" y="315" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc10">
+<text class="description-fill" x="115" y="315">I want to hear an answer from you about this</text>
+<text class="description" x="115" y="315">I want to hear an answer from you about this</text>
+</g>
+<g style="cursor:pointer" id="type11">
+<circle r="10" id="highlight11" class="H" cx="94" cy="335"/>
+<text x="95" id="plain11" y="340" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight11" y="340" class="H" text-anchor="middle">T</text>
+<text x="95" y="340" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc11">
+<text class="description-fill" x="115" y="340">I understand that you can miss the considerate discussion about this because there are so many unreasonable regulations within society</text>
+<text class="description" x="115" y="340">I understand that you can miss the considerate discussion about this because there are so many unreasonable regulations within society</text>
+</g>
+<g style="cursor:pointer" id="type12">
+<circle r="10" id="highlight12" class="H" cx="124" cy="360"/>
+<text x="125" id="plain12" y="365" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight12" y="365" class="H" text-anchor="middle">P</text>
+<text x="125" y="365" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc12">
+<text class="description-fill" x="145" y="365">but your committee decision doesnot make sense at all though I understand those situations your committee seems a bureaucratic self righteous in that you already have answer and want to attain it in anywayEven you also did not accept MOCTs opinion even you donot take MOCTs proposed opinionsIt is deplorable for me to see  this inspite of majority peoples opposition</text>
+<text class="description" x="145" y="365">but your committee decision doesnot make sense at all though I understand those situations your committee seems a bureaucratic self righteous in that you already have answer and want to attain it in anywayEven you also did not accept MOCTs opinion even you donot take MOCTs proposed opinionsIt is deplorable for me to see  this inspite of majority peoples opposition</text>
+</g>
+<g style="cursor:pointer" id="type13">
+<circle r="10" id="highlight13" class="H" cx="94" cy="385"/>
+<text x="95" id="plain13" y="390" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight13" y="390" class="H" text-anchor="middle">T</text>
+<text x="95" y="390" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc13">
+<text class="description-fill" x="115" y="390">please let me know how you make the decision in spite of another ministrys opposition and whether you really have the autority to do that you also should let me know how I can appeal by law for your decision</text>
+<text class="description" x="115" y="390">please let me know how you make the decision in spite of another ministrys opposition and whether you really have the autority to do that you also should let me know how I can appeal by law for your decision</text>
+</g>
+<g style="cursor:pointer" id="type14">
+<circle r="10" id="highlight14" class="H" cx="154" cy="410"/>
+<text x="155" id="plain14" y="415" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight14" y="415" class="H" text-anchor="middle">P</text>
+<text x="155" y="415" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc14">
+<text class="description-fill" x="175" y="415">once again I am willing to give up this job dont think it comes from my own stake to keep this job</text>
+<text class="description" x="175" y="415">once again I am willing to give up this job dont think it comes from my own stake to keep this job</text>
+</g>
+<g style="cursor:pointer" id="type15">
+<circle r="10" id="highlight15" class="H" cx="124" cy="435"/>
+<text x="125" id="plain15" y="440" class="F" text-anchor="middle">T</text>
+<text x="125" id="highlight15" y="440" class="H" text-anchor="middle">T</text>
+<text x="125" y="440" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc15">
+<text class="description-fill" x="145" y="440">you proposed ideas about regulation about large apartment housing management and future direction of regulatory reform</text>
+<text class="description" x="145" y="440">you proposed ideas about regulation about large apartment housing management and future direction of regulatory reform</text>
+</g>
+<g style="cursor:pointer" id="type16">
+<circle r="10" id="highlight16" class="H" cx="94" cy="460"/>
+<text x="95" id="plain16" y="465" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight16" y="465" class="H" text-anchor="middle">T</text>
+<text x="95" y="465" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc16">
+<text class="description-fill" x="115" y="465">we asked MOCT to report overall policy plan to improve current situation on Nov 2001 and Then MOCT submitted first report on March 2002but we asked again them to revise some of the reportwe would like to inform you that any decision has not maden yet about this</text>
+<text class="description" x="115" y="465">we asked MOCT to report overall policy plan to improve current situation on Nov 2001 and Then MOCT submitted first report on March 2002but we asked again them to revise some of the reportwe would like to inform you that any decision has not maden yet about this</text>
+</g>
+<g style="cursor:pointer" id="type17">
+<circle r="10" id="highlight17" class="H" cx="154" cy="485"/>
+<text x="155" id="plain17" y="490" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight17" y="490" class="H" text-anchor="middle">P</text>
+<text x="155" y="490" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc17">
+<text class="description-fill" x="175" y="490">we have a plan to appraise the regulation throughly to improve more efficiency and apartment housing management we will refer your opinion in doing our future work(reforming the regulation)</text>
+<text class="description" x="175" y="490">we have a plan to appraise the regulation throughly to improve more efficiency and apartment housing management we will refer your opinion in doing our future work(reforming the regulation)</text>
+</g>
+<g style="cursor:pointer" id="type18">
+<circle r="10" id="highlight18" class="H" cx="154" cy="510"/>
+<text x="155" id="plain18" y="515" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight18" y="515" class="H" text-anchor="middle">P</text>
+<text x="155" y="515" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc18">
+<text class="description-fill" x="175" y="515">please note as we said above</text>
+<text class="description" x="175" y="515">please note as we said above</text>
+</g>
+<g style="cursor:pointer" id="type19">
+<circle r="10" id="highlight19" class="H" cx="94" cy="535"/>
+<text x="95" id="plain19" y="540" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight19" y="540" class="H" text-anchor="middle">T</text>
+<text x="95" y="540" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc19">
+<text class="description-fill" x="115" y="540">I dare to say that if the regulation is not needed there is no need for public officers exam</text>
+<text class="description" x="115" y="540">I dare to say that if the regulation is not needed there is no need for public officers exam</text>
+</g>
+<g style="cursor:pointer" id="type20">
+<circle r="10" id="highlight20" class="H" cx="184" cy="560"/>
+<text x="185" id="plain20" y="565" class="F" text-anchor="middle">P</text>
+<text x="185" id="highlight20" y="565" class="H" text-anchor="middle">P</text>
+<text x="185" y="565" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc20">
+<text class="description-fill" x="205" y="565">currently 60% of korean are living in apartment housing</text>
+<text class="description" x="205" y="565">currently 60% of korean are living in apartment housing</text>
+</g>
+<g style="cursor:pointer" id="type21">
+<circle r="10" id="highlight21" class="H" cx="184" cy="585"/>
+<text x="185" id="plain21" y="590" class="F" text-anchor="middle">P</text>
+<text x="185" id="highlight21" y="590" class="H" text-anchor="middle">P</text>
+<text x="185" y="590" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc21">
+<text class="description-fill" x="205" y="590">Many people have deams and hopes</text>
+<text class="description" x="205" y="590">Many people have deams and hopes</text>
+</g>
+<g style="cursor:pointer" id="type22">
+<circle r="10" id="highlight22" class="H" cx="184" cy="610"/>
+<text x="185" id="plain22" y="615" class="F" text-anchor="middle">P</text>
+<text x="185" id="highlight22" y="615" class="H" text-anchor="middle">P</text>
+<text x="185" y="615" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc22">
+<text class="description-fill" x="205" y="615">everywhere people live is the same</text>
+<text class="description" x="205" y="615">everywhere people live is the same</text>
+</g>
+<g style="cursor:pointer" id="type23">
+<circle r="10" id="highlight23" class="H" cx="94" cy="635"/>
+<text x="95" id="plain23" y="640" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight23" y="640" class="H" text-anchor="middle">T</text>
+<text x="95" y="640" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc23">
+<text class="description-fill" x="115" y="640">I came to know about politics as I am working as a housing manager</text>
+<text class="description" x="115" y="640">I came to know about politics as I am working as a housing manager</text>
+</g>
+<g style="cursor:pointer" id="type24">
+<circle r="10" id="highlight24" class="H" cx="94" cy="660"/>
+<text x="95" id="plain24" y="665" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight24" y="665" class="H" text-anchor="middle">T</text>
+<text x="95" y="665" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc24">
+<text class="description-fill" x="115" y="665">housing management is like mircorcosom of national politics residents representatives  are like congressmenhousing management office is like city hall and it solves residents problem as city hall does</text>
+<text class="description" x="115" y="665">housing management is like mircorcosom of national politics residents representatives  are like congressmenhousing management office is like city hall and it solves residents problem as city hall does</text>
+</g>
+<g style="cursor:pointer" id="type25">
+<circle r="10" id="highlight25" class="H" cx="124" cy="685"/>
+<text x="125" id="plain25" y="690" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight25" y="690" class="H" text-anchor="middle">P</text>
+<text x="125" y="690" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc25">
+<text class="description-fill" x="145" y="690">people believe that politicians will do good things but do politicians really a good job</text>
+<text class="description" x="145" y="690">people believe that politicians will do good things but do politicians really a good job</text>
+</g>
+<g style="cursor:pointer" id="type26">
+<circle r="10" id="highlight26" class="H" cx="154" cy="710"/>
+<text x="155" id="plain26" y="715" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight26" y="715" class="H" text-anchor="middle">P</text>
+<text x="155" y="715" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc26">
+<text class="description-fill" x="175" y="715">however civil servants called themselves servant but they reign over the citizens They are more interested in vested rights and graftings because they have the power</text>
+<text class="description" x="175" y="715">however civil servants called themselves servant but they reign over the citizens They are more interested in vested rights and graftings because they have the power</text>
+</g>
+<g style="cursor:pointer" id="type27">
+<circle r="10" id="highlight27" class="H" cx="124" cy="735"/>
+<text x="125" id="plain27" y="740" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight27" y="740" class="H" text-anchor="middle">P</text>
+<text x="125" y="740" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc27">
+<text class="description-fill" x="145" y="740">It is the same case in apartment housing management city hall implements the decision which was made by the congress</text>
+<text class="description" x="145" y="740">It is the same case in apartment housing management city hall implements the decision which was made by the congress</text>
+</g>
+<g style="cursor:pointer" id="type28">
+<circle r="10" id="highlight28" class="H" cx="124" cy="760"/>
+<text x="125" id="plain28" y="765" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight28" y="765" class="H" text-anchor="middle">P</text>
+<text x="125" y="765" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc28">
+<text class="description-fill" x="145" y="765">The housing management office implements the decision which was made in the residents association</text>
+<text class="description" x="145" y="765">The housing management office implements the decision which was made in the residents association</text>
+</g>
+<g style="cursor:pointer" id="type29">
+<circle r="10" id="highlight29" class="H" cx="94" cy="785"/>
+<text x="95" id="plain29" y="790" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight29" y="790" class="H" text-anchor="middle">T</text>
+<text x="95" y="790" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc29">
+<text class="description-fill" x="115" y="790">but who prepared the meeting it is a housing manager</text>
+<text class="description" x="115" y="790">but who prepared the meeting it is a housing manager</text>
+</g>
+<g style="cursor:pointer" id="type30">
+<circle r="10" id="highlight30" class="H" cx="124" cy="810"/>
+<text x="125" id="plain30" y="815" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight30" y="815" class="H" text-anchor="middle">P</text>
+<text x="125" y="815" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc30">
+<text class="description-fill" x="145" y="815">housing managers work hard preparing reports and they are professionals</text>
+<text class="description" x="145" y="815">housing managers work hard preparing reports and they are professionals</text>
+</g>
+<g style="cursor:pointer" id="type31">
+<circle r="10" id="highlight31" class="H" cx="124" cy="835"/>
+<text x="125" id="plain31" y="840" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight31" y="840" class="H" text-anchor="middle">P</text>
+<text x="125" y="840" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc31">
+<text class="description-fill" x="145" y="840">the invested resident representative cannot get their stake with corruption because of our presence(housing managers)</text>
+<text class="description" x="145" y="840">the invested resident representative cannot get their stake with corruption because of our presence(housing managers)</text>
+</g>
+<g style="cursor:pointer" id="type32">
+<circle r="10" id="highlight32" class="H" cx="124" cy="860"/>
+<text x="125" id="plain32" y="865" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight32" y="865" class="H" text-anchor="middle">P</text>
+<text x="125" y="865" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc32">
+<text class="description-fill" x="145" y="865">resident representatives has most of power to decide issues surrounding apartment housing</text>
+<text class="description" x="145" y="865">resident representatives has most of power to decide issues surrounding apartment housing</text>
+</g>
+<g style="cursor:pointer" id="type33">
+<circle r="10" id="highlight33" class="H" cx="124" cy="885"/>
+<text x="125" id="plain33" y="890" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight33" y="890" class="H" text-anchor="middle">P</text>
+<text x="125" y="890" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc33">
+<text class="description-fill" x="145" y="890">but housing managers try to focus on their duties rather than involved with interest group politics</text>
+<text class="description" x="145" y="890">but housing managers try to focus on their duties rather than involved with interest group politics</text>
+</g>
+<g style="cursor:pointer" id="type34">
+<circle r="10" id="highlight34" class="H" cx="154" cy="910"/>
+<text x="155" id="plain34" y="915" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight34" y="915" class="H" text-anchor="middle">P</text>
+<text x="155" y="915" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc34">
+<text class="description-fill" x="175" y="915">residents representative have more powers than a congressman does</text>
+<text class="description" x="175" y="915">residents representative have more powers than a congressman does</text>
+</g>
+<g style="cursor:pointer" id="type35">
+<circle r="10" id="highlight35" class="H" cx="94" cy="935"/>
+<text x="95" id="plain35" y="940" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight35" y="940" class="H" text-anchor="middle">T</text>
+<text x="95" y="940" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc35">
+<text class="description-fill" x="115" y="940">That is they can exert their power by hiring a housing manager</text>
+<text class="description" x="115" y="940">That is they can exert their power by hiring a housing manager</text>
+</g>
+<g style="cursor:pointer" id="type36">
+<circle r="10" id="highlight36" class="H" cx="124" cy="960"/>
+<text x="125" id="plain36" y="965" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight36" y="965" class="H" text-anchor="middle">P</text>
+<text x="125" y="965" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc36">
+<text class="description-fill" x="145" y="965">Fortunately current regulation(mandatory placement) prohibit their arbitrary power exertion by residents representatives</text>
+<text class="description" x="145" y="965">Fortunately current regulation(mandatory placement) prohibit their arbitrary power exertion by residents representatives</text>
+</g>
+<g style="cursor:pointer" id="type37">
+<circle r="10" id="highlight37" class="H" cx="124" cy="985"/>
+<text x="125" id="plain37" y="990" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight37" y="990" class="H" text-anchor="middle">P</text>
+<text x="125" y="990" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc37">
+<text class="description-fill" x="145" y="990">What will happen if people choose the civil servants arbitrarily without any examination</text>
+<text class="description" x="145" y="990">What will happen if people choose the civil servants arbitrarily without any examination</text>
+</g>
+<g style="cursor:pointer" id="type38">
+<circle r="10" id="highlight38" class="H" cx="94" cy="1010"/>
+<text x="95" id="plain38" y="1015" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight38" y="1015" class="H" text-anchor="middle">T</text>
+<text x="95" y="1015" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc38">
+<text class="description-fill" x="115" y="1015">There is not much difference between housing office and city hall there can be a difference in the content of duties but basically there is no big difference in that they intend to solve peoples problem The role of housing office and city hall are the same I dare to say that if the housing managers dont need to be there is no need for civil servants</text>
+<text class="description" x="115" y="1015">There is not much difference between housing office and city hall there can be a difference in the content of duties but basically there is no big difference in that they intend to solve peoples problem The role of housing office and city hall are the same I dare to say that if the housing managers dont need to be there is no need for civil servants</text>
+</g>
+<g style="cursor:pointer" id="type39">
+<circle r="10" id="highlight39" class="H" cx="124" cy="1035"/>
+<text x="125" id="plain39" y="1040" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight39" y="1040" class="H" text-anchor="middle">P</text>
+<text x="125" y="1040" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc39">
+<text class="description-fill" x="145" y="1040">I have one more thing to say Please make more the regulation about housing manger and  please do more research about the function and role of housing office and intensify the standards to be a housing manager</text>
+<text class="description" x="145" y="1040">I have one more thing to say Please make more the regulation about housing manger and  please do more research about the function and role of housing office and intensify the standards to be a housing manager</text>
+</g>
+<g style="cursor:pointer" id="type40">
+<circle r="10" id="highlight40" class="H" cx="124" cy="1060"/>
+<text x="125" id="plain40" y="1065" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight40" y="1065" class="H" text-anchor="middle">P</text>
+<text x="125" y="1065" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc40">
+<text class="description-fill" x="145" y="1065">I hope democrary(division of functions such as administration jurisdiction congress) can be implemented from small apartment housing</text>
+<text class="description" x="145" y="1065">I hope democrary(division of functions such as administration jurisdiction congress) can be implemented from small apartment housing</text>
+</g>
+<g style="cursor:pointer" id="type41">
+<circle r="10" id="highlight41" class="H" cx="154" cy="1085"/>
+<text x="155" id="plain41" y="1090" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight41" y="1090" class="H" text-anchor="middle">P</text>
+<text x="155" y="1090" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc41">
+<text class="description-fill" x="175" y="1090">analogy of jurisdiction doesnot make sense dose it</text>
+<text class="description" x="175" y="1090">analogy of jurisdiction doesnot make sense dose it</text>
+</g>
+<g style="cursor:pointer" id="type42">
+<circle r="10" id="highlight42" class="H" cx="154" cy="1110"/>
+<text x="155" id="plain42" y="1115" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight42" y="1115" class="H" text-anchor="middle">P</text>
+<text x="155" y="1115" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc42">
+<text class="description-fill" x="175" y="1115">you proposed ideas about regulation about large apartment housing management and future direction of regulatory reform</text>
+<text class="description" x="175" y="1115">you proposed ideas about regulation about large apartment housing management and future direction of regulatory reform</text>
+</g>
+<g style="cursor:pointer" id="type43">
+<circle r="10" id="highlight43" class="H" cx="214" cy="1135"/>
+<text x="215" id="plain43" y="1140" class="F" text-anchor="middle">P</text>
+<text x="215" id="highlight43" y="1140" class="H" text-anchor="middle">P</text>
+<text x="215" y="1140" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc43">
+<text class="description-fill" x="235" y="1140">your proposal is similar to Sunja Park please refer the reply to her(registration number 363)</text>
+<text class="description" x="235" y="1140">your proposal is similar to Sunja Park please refer the reply to her(registration number 363)</text>
+</g>
+<g style="cursor:pointer" id="type44">
+<circle r="10" id="highlight44" class="H" cx="94" cy="1160"/>
+<text x="95" id="plain44" y="1165" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight44" y="1165" class="H" text-anchor="middle">T</text>
+<text x="95" y="1165" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc44">
+<text class="description-fill" x="115" y="1165">we would like to notify that your opinion will be reflected in our future work(reforming the regulation) please note as we said above</text>
+<text class="description" x="115" y="1165">we would like to notify that your opinion will be reflected in our future work(reforming the regulation) please note as we said above</text>
+</g>
+<g style="cursor:pointer" id="type45">
+<circle r="10" id="highlight45" class="H" cx="124" cy="1185"/>
+<text x="125" id="plain45" y="1190" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight45" y="1190" class="H" text-anchor="middle">P</text>
+<text x="125" y="1190" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc45">
+<text class="description-fill" x="145" y="1190">we asked MOCT to report overall policy plan to improve current situation on Nov  2001Then MOCT submitted first report on March 2002</text>
+<text class="description" x="145" y="1190">we asked MOCT to report overall policy plan to improve current situation on Nov  2001Then MOCT submitted first report on March 2002</text>
+</g>
+<g style="cursor:pointer" id="type46">
+<circle r="10" id="highlight46" class="H" cx="124" cy="1210"/>
+<text x="125" id="plain46" y="1215" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight46" y="1215" class="H" text-anchor="middle">P</text>
+<text x="125" y="1215" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc46">
+<text class="description-fill" x="145" y="1215">but we asked again them to revise some of the report and it is still in progressAny decision has not maden yet about this</text>
+<text class="description" x="145" y="1215">but we asked again them to revise some of the report and it is still in progressAny decision has not maden yet about this</text>
+</g>
+<g style="cursor:pointer" id="type47">
+<circle r="10" id="highlight47" class="H" cx="94" cy="1235"/>
+<text x="95" id="plain47" y="1240" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight47" y="1240" class="H" text-anchor="middle">T</text>
+<text x="95" y="1240" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc47">
+<text class="description-fill" x="115" y="1240">we will cafefully appraise the regulation to remove citizens inconveniences as much as we can and to develop better way of managiong large APT housing</text>
+<text class="description" x="115" y="1240">we will cafefully appraise the regulation to remove citizens inconveniences as much as we can and to develop better way of managiong large APT housing</text>
+</g>
+<g style="cursor:pointer" id="type48">
+<circle r="10" id="highlight48" class="H" cx="94" cy="1260"/>
+<text x="95" id="plain48" y="1265" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight48" y="1265" class="H" text-anchor="middle">T</text>
+<text x="95" y="1265" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc48">
+<text class="description-fill" x="115" y="1265">we would like to notify that your opinion will be reflected in our future work(reforming the regulation)please note as we said above</text>
+<text class="description" x="115" y="1265">we would like to notify that your opinion will be reflected in our future work(reforming the regulation)please note as we said above</text>
+</g>
+<g style="cursor:pointer" id="type49">
+<circle r="10" id="highlight49" class="H" cx="94" cy="1285"/>
+<text x="95" id="plain49" y="1290" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight49" y="1290" class="H" text-anchor="middle">T</text>
+<text x="95" y="1290" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc49">
+<text class="description-fill" x="115" y="1290">I requesting to reform the mandatory placement regualtion about housing manager</text>
+<text class="description" x="115" y="1290">I requesting to reform the mandatory placement regualtion about housing manager</text>
+</g>
+<g style="cursor:pointer" id="type50">
+<circle r="10" id="highlight50" class="H" cx="124" cy="1310"/>
+<text x="125" id="plain50" y="1315" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight50" y="1315" class="H" text-anchor="middle">P</text>
+<text x="125" y="1315" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc50">
+<text class="description-fill" x="145" y="1315">I know there is a big controversy about the regulation on housing mangers</text>
+<text class="description" x="145" y="1315">I know there is a big controversy about the regulation on housing mangers</text>
+</g>
+<g style="cursor:pointer" id="type51">
+<circle r="10" id="highlight51" class="H" cx="154" cy="1335"/>
+<text x="155" id="plain51" y="1340" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight51" y="1340" class="H" text-anchor="middle">P</text>
+<text x="155" y="1340" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc51">
+<text class="description-fill" x="175" y="1340">there are lots of regulations in the world The key point is whether it is essential or not</text>
+<text class="description" x="175" y="1340">there are lots of regulations in the world The key point is whether it is essential or not</text>
+</g>
+<g style="cursor:pointer" id="type52">
+<circle r="10" id="highlight52" class="H" cx="94" cy="1360"/>
+<text x="95" id="plain52" y="1365" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight52" y="1365" class="H" text-anchor="middle">T</text>
+<text x="95" y="1365" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc52">
+<text class="description-fill" x="115" y="1365">I dont understand with common sense about sunset rule of housing managers mandatory regulation  which your committee is discussing</text>
+<text class="description" x="115" y="1365">I dont understand with common sense about sunset rule of housing managers mandatory regulation  which your committee is discussing</text>
+</g>
+<g style="cursor:pointer" id="type53">
+<circle r="10" id="highlight53" class="H" cx="94" cy="1385"/>
+<text x="95" id="plain53" y="1390" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight53" y="1390" class="H" text-anchor="middle">T</text>
+<text x="95" y="1390" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc53">
+<text class="description-fill" x="115" y="1390">if the regulation(housing managers mandatory placement regulation) does harm to residents you would rather aboilshing it rather than keep it for a while through a sun set rule1</text>
+<text class="description" x="115" y="1390">if the regulation(housing managers mandatory placement regulation) does harm to residents you would rather aboilshing it rather than keep it for a while through a sun set rule1</text>
+</g>
+<g style="cursor:pointer" id="type54">
+<circle r="10" id="highlight54" class="H" cx="94" cy="1410"/>
+<text x="95" id="plain54" y="1415" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight54" y="1415" class="H" text-anchor="middle">T</text>
+<text x="95" y="1415" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc54">
+<text class="description-fill" x="115" y="1415">why it is between  three years and five years What is the criteria of thatI think talking about the sun-set rule itself is contradictory</text>
+<text class="description" x="115" y="1415">why it is between  three years and five years What is the criteria of thatI think talking about the sun-set rule itself is contradictory</text>
+</g>
+<g style="cursor:pointer" id="type55">
+<circle r="10" id="highlight55" class="H" cx="94" cy="1435"/>
+<text x="95" id="plain55" y="1440" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight55" y="1440" class="H" text-anchor="middle">T</text>
+<text x="95" y="1440" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc55">
+<text class="description-fill" x="115" y="1440">Sun set rule means that abolishing the ineffective regulation after certain time passed</text>
+<text class="description" x="115" y="1440">Sun set rule means that abolishing the ineffective regulation after certain time passed</text>
+</g>
+<g style="cursor:pointer" id="type56">
+<circle r="10" id="highlight56" class="H" cx="154" cy="1460"/>
+<text x="155" id="plain56" y="1465" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight56" y="1465" class="H" text-anchor="middle">P</text>
+<text x="155" y="1465" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc56">
+<text class="description-fill" x="175" y="1465">is it really within your authority it is beyond your authority (so donot touch it)</text>
+<text class="description" x="175" y="1465">is it really within your authority it is beyond your authority (so donot touch it)</text>
+</g>
+<g style="cursor:pointer" id="type57">
+<circle r="10" id="highlight57" class="H" cx="154" cy="1485"/>
+<text x="155" id="plain57" y="1490" class="F" text-anchor="middle">T</text>
+<text x="155" id="highlight57" y="1490" class="H" text-anchor="middle">T</text>
+<text x="155" y="1490" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc57">
+<text class="description-fill" x="175" y="1490">your committee can deal with this issue when the regulation will be nullified (This is beside point!)your committee already admit that it is necessary regulation and then you want to abolish it It is nonsense</text>
+<text class="description" x="175" y="1490">your committee can deal with this issue when the regulation will be nullified (This is beside point!)your committee already admit that it is necessary regulation and then you want to abolish it It is nonsense</text>
+</g>
+<g style="cursor:pointer" id="type58">
+<circle r="10" id="highlight58" class="H" cx="94" cy="1510"/>
+<text x="95" id="plain58" y="1515" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight58" y="1515" class="H" text-anchor="middle">T</text>
+<text x="95" y="1515" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc58">
+<text class="description-fill" x="115" y="1515">I was a housing manager and I am interested in apartment housing managementI am also a resident who lives in an apartment</text>
+<text class="description" x="115" y="1515">I was a housing manager and I am interested in apartment housing managementI am also a resident who lives in an apartment</text>
+</g>
+<g style="cursor:pointer" id="type59">
+<circle r="10" id="highlight59" class="H" cx="124" cy="1535"/>
+<text x="125" id="plain59" y="1540" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight59" y="1540" class="H" text-anchor="middle">P</text>
+<text x="125" y="1540" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc59">
+<text class="description-fill" x="145" y="1540">most of the residents donot have time and energy to get involved with housing management and some of them are not interested in it at all</text>
+<text class="description" x="145" y="1540">most of the residents donot have time and energy to get involved with housing management and some of them are not interested in it at all</text>
+</g>
+<g style="cursor:pointer" id="type60">
+<circle r="10" id="highlight60" class="H" cx="154" cy="1560"/>
+<text x="155" id="plain60" y="1565" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight60" y="1565" class="H" text-anchor="middle">P</text>
+<text x="155" y="1565" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc60">
+<text class="description-fill" x="175" y="1565">Therefore the housing manager should take care of APT sometimes people claim that the resident representatives are the owners but it is not true</text>
+<text class="description" x="175" y="1565">Therefore the housing manager should take care of APT sometimes people claim that the resident representatives are the owners but it is not true</text>
+</g>
+<g style="cursor:pointer" id="type61">
+<circle r="10" id="highlight61" class="H" cx="94" cy="1585"/>
+<text x="95" id="plain61" y="1590" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight61" y="1590" class="H" text-anchor="middle">T</text>
+<text x="95" y="1590" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc61">
+<text class="description-fill" x="115" y="1590">I hope the housing management can be developed moreI would like to suggest that  the regulation should secure the housing managers position</text>
+<text class="description" x="115" y="1590">I hope the housing management can be developed moreI would like to suggest that  the regulation should secure the housing managers position</text>
+</g>
+<g style="cursor:pointer" id="type62">
+<circle r="10" id="highlight62" class="H" cx="94" cy="1610"/>
+<text x="95" id="plain62" y="1615" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight62" y="1615" class="H" text-anchor="middle">T</text>
+<text x="95" y="1615" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc62">
+<text class="description-fill" x="115" y="1615">please help to guarantee the stable status of housing manager</text>
+<text class="description" x="115" y="1615">please help to guarantee the stable status of housing manager</text>
+</g>
+<g style="cursor:pointer" id="type63">
+<circle r="10" id="highlight63" class="H" cx="94" cy="1635"/>
+<text x="95" id="plain63" y="1640" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight63" y="1640" class="H" text-anchor="middle">T</text>
+<text x="95" y="1640" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc63">
+<text class="description-fill" x="115" y="1640">the role of housing managers seems complicated because there is no focus in housing management</text>
+<text class="description" x="115" y="1640">the role of housing managers seems complicated because there is no focus in housing management</text>
+</g>
+<g style="cursor:pointer" id="type64">
+<circle r="10" id="highlight64" class="H" cx="94" cy="1660"/>
+<text x="95" id="plain64" y="1665" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight64" y="1665" class="H" text-anchor="middle">T</text>
+<text x="95" y="1665" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc64">
+<text class="description-fill" x="115" y="1665">we need some alternatives to coordinate complex interests of residents and protect silent and innocent residentshousing manager should have this role but they cannot (because of their unstable status and interest group politics)sometimesthe role of housing manager is not performed well because of limitation in various situations</text>
+<text class="description" x="115" y="1665">we need some alternatives to coordinate complex interests of residents and protect silent and innocent residentshousing manager should have this role but they cannot (because of their unstable status and interest group politics)sometimesthe role of housing manager is not performed well because of limitation in various situations</text>
+</g>
+<g style="cursor:pointer" id="type65">
+<circle r="10" id="highlight65" class="H" cx="124" cy="1685"/>
+<text x="125" id="plain65" y="1690" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight65" y="1690" class="H" text-anchor="middle">P</text>
+<text x="125" y="1690" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc65">
+<text class="description-fill" x="145" y="1690">many problems are attributed from the unstable status of housing mangers</text>
+<text class="description" x="145" y="1690">many problems are attributed from the unstable status of housing mangers</text>
+</g>
+<g style="cursor:pointer" id="type66">
+<circle r="10" id="highlight66" class="H" cx="124" cy="1710"/>
+<text x="125" id="plain66" y="1715" class="F" text-anchor="middle">T</text>
+<text x="125" id="highlight66" y="1715" class="H" text-anchor="middle">T</text>
+<text x="125" y="1715" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc66">
+<text class="description-fill" x="145" y="1715">please secure the housing managers status for them to do their intended role</text>
+<text class="description" x="145" y="1715">please secure the housing managers status for them to do their intended role</text>
+</g>
+<g style="cursor:pointer" id="type67">
+<circle r="10" id="highlight67" class="H" cx="94" cy="1735"/>
+<text x="95" id="plain67" y="1740" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight67" y="1740" class="H" text-anchor="middle">T</text>
+<text x="95" y="1740" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc67">
+<text class="description-fill" x="115" y="1740">I would like to suggest the reform when mandatory regulation doesnt work well in spite of other efforts</text>
+<text class="description" x="115" y="1740">I would like to suggest the reform when mandatory regulation doesnt work well in spite of other efforts</text>
+</g>
+<g style="cursor:pointer" id="type68">
+<circle r="10" id="highlight68" class="H" cx="94" cy="1760"/>
+<text x="95" id="plain68" y="1765" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight68" y="1765" class="H" text-anchor="middle">T</text>
+<text x="95" y="1765" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc68">
+<text class="description-fill" x="115" y="1765">you proposed ideas about regulation about large apartment housing management and future direction of regulatory reform</text>
+<text class="description" x="115" y="1765">you proposed ideas about regulation about large apartment housing management and future direction of regulatory reform</text>
+</g>
+<g style="cursor:pointer" id="type69">
+<circle r="10" id="highlight69" class="H" cx="124" cy="1785"/>
+<text x="125" id="plain69" y="1790" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight69" y="1790" class="H" text-anchor="middle">P</text>
+<text x="125" y="1790" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc69">
+<text class="description-fill" x="145" y="1790">your proposal is similar to Sunja Park please refer the reply to her(registration number 363)</text>
+<text class="description" x="145" y="1790">your proposal is similar to Sunja Park please refer the reply to her(registration number 363)</text>
+</g>
+<g style="cursor:pointer" id="type70">
+<circle r="10" id="highlight70" class="H" cx="94" cy="1810"/>
+<text x="95" id="plain70" y="1815" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight70" y="1815" class="H" text-anchor="middle">T</text>
+<text x="95" y="1815" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc70">
+<text class="description-fill" x="115" y="1815">we would like to notify that your opinion will be reflected in our future work(reforming the regulation) please note as we said above</text>
+<text class="description" x="115" y="1815">we would like to notify that your opinion will be reflected in our future work(reforming the regulation) please note as we said above</text>
+</g>
+<g style="cursor:pointer" id="type71">
+<circle r="10" id="highlight71" class="H" cx="154" cy="1835"/>
+<text x="155" id="plain71" y="1840" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight71" y="1840" class="H" text-anchor="middle">P</text>
+<text x="155" y="1840" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc71">
+<text class="description-fill" x="175" y="1840">we asked MOCT to report overall policy plan to improve current situation on Nov 2001 Then MOCT submitted first report on March 2002</text>
+<text class="description" x="175" y="1840">we asked MOCT to report overall policy plan to improve current situation on Nov 2001 Then MOCT submitted first report on March 2002</text>
+</g>
+<g style="cursor:pointer" id="type72">
+<circle r="10" id="highlight72" class="H" cx="154" cy="1860"/>
+<text x="155" id="plain72" y="1865" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight72" y="1865" class="H" text-anchor="middle">P</text>
+<text x="155" y="1865" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc72">
+<text class="description-fill" x="175" y="1865">but we asked again them to revise some of the report and it is still in progressAny decision has not maden yet about this</text>
+<text class="description" x="175" y="1865">but we asked again them to revise some of the report and it is still in progressAny decision has not maden yet about this</text>
+</g>
+<g style="cursor:pointer" id="type73">
+<circle r="10" id="highlight73" class="H" cx="94" cy="1885"/>
+<text x="95" id="plain73" y="1890" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight73" y="1890" class="H" text-anchor="middle">T</text>
+<text x="95" y="1890" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc73">
+<text class="description-fill" x="115" y="1890">we will cafefully appraise the regulation to remove citizens inconveniences as much as we can and to develop better way of managiong large APT housing</text>
+<text class="description" x="115" y="1890">we will cafefully appraise the regulation to remove citizens inconveniences as much as we can and to develop better way of managiong large APT housing</text>
+</g>
+<g style="cursor:pointer" id="type74">
+<circle r="10" id="highlight74" class="H" cx="94" cy="1910"/>
+<text x="95" id="plain74" y="1915" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight74" y="1915" class="H" text-anchor="middle">T</text>
+<text x="95" y="1915" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc74">
+<text class="description-fill" x="115" y="1915">we would like to notify that your opinion will be reflected in our future work(reforming the regulation)please note as we said above</text>
+<text class="description" x="115" y="1915">we would like to notify that your opinion will be reflected in our future work(reforming the regulation)please note as we said above</text>
+</g>
+<g style="cursor:pointer" id="type75">
+<circle r="10" id="highlight75" class="H" cx="94" cy="1935"/>
+<text x="95" id="plain75" y="1940" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight75" y="1940" class="H" text-anchor="middle">T</text>
+<text x="95" y="1940" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc75">
+<text class="description-fill" x="115" y="1940">I appreciate your effort to make corrections in wrong regulation for nations development</text>
+<text class="description" x="115" y="1940">I appreciate your effort to make corrections in wrong regulation for nations development</text>
+</g>
+<g style="cursor:pointer" id="type76">
+<circle r="10" id="highlight76" class="H" cx="154" cy="1960"/>
+<text x="155" id="plain76" y="1965" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight76" y="1965" class="H" text-anchor="middle">P</text>
+<text x="155" y="1965" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc76">
+<text class="description-fill" x="175" y="1965">It is the democratic nation that anyone who think the regulation is wrong can make a recommendation to the government</text>
+<text class="description" x="175" y="1965">It is the democratic nation that anyone who think the regulation is wrong can make a recommendation to the government</text>
+</g>
+<g style="cursor:pointer" id="type77">
+<circle r="10" id="highlight77" class="H" cx="154" cy="1985"/>
+<text x="155" id="plain77" y="1990" class="F" text-anchor="middle">P</text>
+<text x="155" id="highlight77" y="1990" class="H" text-anchor="middle">P</text>
+<text x="155" y="1990" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc77">
+<text class="description-fill" x="175" y="1990">we can get information easily by internet by  living in information age</text>
+<text class="description" x="175" y="1990">we can get information easily by internet by  living in information age</text>
+</g>
+<g style="cursor:pointer" id="type78">
+<circle r="10" id="highlight78" class="H" cx="94" cy="2010"/>
+<text x="95" id="plain78" y="2015" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight78" y="2015" class="H" text-anchor="middle">T</text>
+<text x="95" y="2015" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc78">
+<text class="description-fill" x="115" y="2015">Kim proposed abolishment of housing managers mandatory regulaiton on April 8 2002 I found in the one housing managersassociation webpage Kims age address email address was revealed to the publicWebboard message number44Area Ulsan title housing managers mandatory placement rule uploaded time  23:47 200248</text>
+<text class="description" x="115" y="2015">Kim proposed abolishment of housing managers mandatory regulaiton on April 8 2002 I found in the one housing managersassociation webpage Kims age address email address was revealed to the publicWebboard message number44Area Ulsan title housing managers mandatory placement rule uploaded time  23:47 200248</text>
+</g>
+<g style="cursor:pointer" id="type79">
+<circle r="10" id="highlight79" class="H" cx="94" cy="2035"/>
+<text x="95" id="plain79" y="2040" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight79" y="2040" class="H" text-anchor="middle">T</text>
+<text x="95" y="2040" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc79">
+<text class="description-fill" x="115" y="2040">(I think) It is a terror to Kim and infringement of the privacy</text>
+<text class="description" x="115" y="2040">(I think) It is a terror to Kim and infringement of the privacy</text>
+</g>
+<g style="cursor:pointer" id="type80">
+<circle r="10" id="highlight80" class="H" cx="94" cy="2060"/>
+<text x="95" id="plain80" y="2065" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight80" y="2065" class="H" text-anchor="middle">T</text>
+<text x="95" y="2065" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc80">
+<text class="description-fill" x="115" y="2065">question: is it a infringement on information communication law and criminal law?</text>
+<text class="description" x="115" y="2065">question: is it a infringement on information communication law and criminal law?</text>
+</g>
+<g style="cursor:pointer" id="type81">
+<circle r="10" id="highlight81" class="H" cx="94" cy="2085"/>
+<text x="95" id="plain81" y="2090" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight81" y="2090" class="H" text-anchor="middle">T</text>
+<text x="95" y="2090" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc81">
+<text class="description-fill" x="115" y="2090">can we trace this person (who put Kims personal information on the webpage of the housing managers association) and  birng the person to justice?</text>
+<text class="description" x="115" y="2090">can we trace this person (who put Kims personal information on the webpage of the housing managers association) and  birng the person to justice?</text>
+</g>
+<g style="cursor:pointer" id="type82">
+<circle r="10" id="highlight82" class="H" cx="94" cy="2110"/>
+<text x="95" id="plain82" y="2115" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight82" y="2115" class="H" text-anchor="middle">T</text>
+<text x="95" y="2115" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc82">
+<text class="description-fill" x="115" y="2115">What I propose is that RRC should be careful to protect peoples privacy and let people recommend their ideas freely without any concerns and fearsplease bring a person or the association to justice if there is any privacy infringement</text>
+<text class="description" x="115" y="2115">What I propose is that RRC should be careful to protect peoples privacy and let people recommend their ideas freely without any concerns and fearsplease bring a person or the association to justice if there is any privacy infringement</text>
+</g>
+<g style="cursor:pointer" id="type83">
+<circle r="10" id="highlight83" class="H" cx="124" cy="2135"/>
+<text x="125" id="plain83" y="2140" class="F" text-anchor="middle">P</text>
+<text x="125" id="highlight83" y="2140" class="H" text-anchor="middle">P</text>
+<text x="125" y="2140" class="P" text-anchor="middle">P</text>
+</g>
+<g style="opacity:1" id="desc83">
+<text class="description-fill" x="145" y="2140">In addition please make sure that the regulation (about housing mangers mandatory placement ) can be aoblished</text>
+<text class="description" x="145" y="2140">In addition please make sure that the regulation (about housing mangers mandatory placement ) can be aoblished</text>
+</g>
+<g style="cursor:pointer" id="type84">
+<circle r="10" id="highlight84" class="H" cx="94" cy="2160"/>
+<text x="95" id="plain84" y="2165" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight84" y="2165" class="H" text-anchor="middle">T</text>
+<text x="95" y="2165" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc84">
+<text class="description-fill" x="115" y="2165">you asked about liability issues and violation of your privacy which was caused by your personal information was opened to ohters</text>
+<text class="description" x="115" y="2165">you asked about liability issues and violation of your privacy which was caused by your personal information was opened to ohters</text>
+</g>
+<g style="cursor:pointer" id="type85">
+<circle r="10" id="highlight85" class="H" cx="94" cy="2185"/>
+<text x="95" id="plain85" y="2190" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight85" y="2190" class="H" text-anchor="middle">T</text>
+<text x="95" y="2190" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc85">
+<text class="description-fill" x="115" y="2190">you suggested that appropriate solution need to be made</text>
+<text class="description" x="115" y="2190">you suggested that appropriate solution need to be made</text>
+</g>
+<g style="cursor:pointer" id="type86">
+<circle r="10" id="highlight86" class="H" cx="94" cy="2210"/>
+<text x="95" id="plain86" y="2215" class="F" text-anchor="middle">T</text>
+<text x="95" id="highlight86" y="2215" class="H" text-anchor="middle">T</text>
+<text x="95" y="2215" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc86">
+<text class="description-fill" x="115" y="2215">I am sorry that you got the damage due to your posting in our website</text>
+<text class="description" x="115" y="2215">I am sorry that you got the damage due to your posting in our website</text>
+</g>
+<g style="cursor:pointer" id="type87">
+<circle r="10" id="highlight87" class="H" cx="124" cy="2235"/>
+<text x="125" id="plain87" y="2240" class="F" text-anchor="middle">T</text>
+<text x="125" id="highlight87" y="2240" class="H" text-anchor="middle">T</text>
+<text x="125" y="2240" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc87">
+<text class="description-fill" x="145" y="2240">We will try not to happen such a thing again</text>
+<text class="description" x="145" y="2240">We will try not to happen such a thing again</text>
+</g>
+<g style="cursor:pointer" id="type88">
+<circle r="10" id="highlight88" class="H" cx="124" cy="2260"/>
+<text x="125" id="plain88" y="2265" class="F" text-anchor="middle">T</text>
+<text x="125" id="highlight88" y="2265" class="H" text-anchor="middle">T</text>
+<text x="125" y="2265" class="T" text-anchor="middle">T</text>
+</g>
+<g style="opacity:1" id="desc88">
+<text class="description-fill" x="145" y="2265">we would like to notify that your opinion will be reflected in our future work(reforming the regulation)</text>
+<text class="description" x="145" y="2265">we would like to notify that your opinion will be reflected in our future work(reforming the regulation)</text>
+</g>
+</g></svg>
